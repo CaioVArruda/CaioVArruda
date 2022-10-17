@@ -1,4 +1,4 @@
-### ![Banner Principal]()
+### ![Banner Principal](https://github.com/CaioVArruda/CaioVArruda/blob/main/banner.png)
 
 ### Hi, there! My name is Caio and this is my Data Science / Machine Learning repository! 👋
 
